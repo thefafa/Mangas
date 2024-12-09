@@ -1,0 +1,17 @@
+{
+  "title": "<Abandonado>",
+  "description": "<mangastraudicdo>",
+  "artist": "<nose>",
+  "author": "<nadie>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<chapter number>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<abandonado-cap-7-YGCtKXQ>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
